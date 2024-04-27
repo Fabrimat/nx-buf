@@ -1,6 +1,6 @@
 {
   "name": "@fabrimat/nx-buf",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "type": "commonjs",
   "main": "./src/index.js",
   "executors": "./executors.json",
